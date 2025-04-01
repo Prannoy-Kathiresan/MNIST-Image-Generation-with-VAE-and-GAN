@@ -33,12 +33,6 @@ This project compares two generative models — **Variational Autoencoders (VAE)
 
 ---
 
-## 🖼 Sample Outputs
-
-> You can add generated image grids or t-SNE visualizations here!
-
----
-
 ## ⚙️ How to Run
 
 1. Install dependencies:
