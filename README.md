@@ -60,4 +60,4 @@ jupyter notebook MNIST_GAN.ipynb
 
 ## 📬 Contact
 
-Connect on [LinkedIn](https://www.linkedin.com/in/prannoy-kathiresan) for questions or collaboration!
+Connect on [LinkedIn](https://www.linkedin.com/in/prannoy-k) for questions or collaboration!
