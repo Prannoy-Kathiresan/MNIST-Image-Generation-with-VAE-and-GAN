@@ -1,4 +1,4 @@
-# 🧠 Generative Modeling on MNIST: VAE vs GAN
+# Generative Modeling on MNIST: VAE (Variational Autoencoders) & GAN (Generative Adversarial Networks)
 
 This project compares two generative models — **Variational Autoencoders (VAE)** and **Generative Adversarial Networks (GAN)** — for learning and generating handwritten digits from the **MNIST dataset**.
 
